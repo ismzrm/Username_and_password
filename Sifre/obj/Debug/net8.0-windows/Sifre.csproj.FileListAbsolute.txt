@@ -1,0 +1,16 @@
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\bin\Debug\net8.0-windows\Sifre.exe
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\bin\Debug\net8.0-windows\Sifre.deps.json
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\bin\Debug\net8.0-windows\Sifre.runtimeconfig.json
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\bin\Debug\net8.0-windows\Sifre.dll
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\bin\Debug\net8.0-windows\Sifre.pdb
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.Form1.resources
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.csproj.GenerateResource.cache
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.AssemblyInfoInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.AssemblyInfo.cs
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.csproj.CoreCompileInputs.cache
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.dll
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\refint\Sifre.dll
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.pdb
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\Sifre.genruntimeconfig.cache
+C:\Users\zorma\OneDrive\Masaüstü\Sifre\Sifre\obj\Debug\net8.0-windows\ref\Sifre.dll
